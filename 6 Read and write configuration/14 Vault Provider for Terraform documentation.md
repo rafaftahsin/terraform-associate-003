@@ -1,0 +1,1 @@
+https://registry.terraform.io/providers/hashicorp/vault/latest/docs
