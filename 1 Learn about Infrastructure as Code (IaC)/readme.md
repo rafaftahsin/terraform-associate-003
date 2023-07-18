@@ -1,5 +1,6 @@
 ---
 layout: default
-title: 1. Learn about Infrustructure as Code (IaC)
+title: Learn about Infrustructure as Code (IaC)
 has_children: true
+nav_order: 10
 ---

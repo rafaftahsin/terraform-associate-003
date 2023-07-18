@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 1. Infrastructure as Code introduction video
-parent: 1. Learn about Infrustructure as Code (IaC)
+parent: Learn about Infrustructure as Code (IaC)
 ---
 
 
