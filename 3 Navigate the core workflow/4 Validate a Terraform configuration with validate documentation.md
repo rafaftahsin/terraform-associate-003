@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 4. Validate a Terraform configuration with validate documentation
-parent: 3. Navigate the core workflow
+parent: Navigate the core workflow
 ---
 
 

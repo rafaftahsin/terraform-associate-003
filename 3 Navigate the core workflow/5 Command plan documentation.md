@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 5. Command plan documentation
-parent: 3. Navigate the core workflow
+parent: Navigate the core workflow
 ---
 
 
