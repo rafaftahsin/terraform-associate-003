@@ -23,3 +23,9 @@ https://developer.hashicorp.com/terraform/tutorials/certification-003/associate-
 https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials-003
 
 ### Study Path => Study Through Study Guide
+
+### Some search if this is to be published 
+
+1. Can use static site generator
+2. 
+
