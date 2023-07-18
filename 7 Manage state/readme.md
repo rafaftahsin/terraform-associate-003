@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 7. Manage state
+title: Manage state
 has_children: true
 nav_order: 70
 ---
