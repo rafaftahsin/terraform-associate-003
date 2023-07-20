@@ -1,3 +1,8 @@
+### Site Link
+
+https://rafaftahsin.github.io/terraform-associate-003/
+
+
 ### Certification Page
 
 https://www.hashicorp.com/certification/terraform-associate 
