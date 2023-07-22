@@ -11,7 +11,7 @@ parent: Learn about Infrustructure as Code (IaC)
 [![Watch the video](https://www.youtube.com/watch?v=RO7VcUAsf-I/default.jpg)](https://youtu.be/nTQUwghvy5Q)
 
 
-# Transcript of the Video
+# Transcript of the Video. Just go through it.
 
 It really starts by looking at: How is infrastructure traditionally managed?
 
@@ -30,3 +30,13 @@ There's a change, in terms of the dynamism of our infrastructure. So the real id
 I can begin to both automate that, but also now that I've captured it as a codified form, I can check it into version control and I get versioning. Now I can see an incremental history of who changed what, how is my infrastructure actually defined at any given point of time, and I have this transparency of documentation that I lack in a traditional point-and-click environment. It's really an oral tradition in terms of: What is the configuration? What are the things that you need to point and click and set up?
 
 That really becomes the value. It's really the versioning of it, the reusability of the code, and the ability to then do automation on top of it.
+
+# tl;dr
+
+### What Is It?
+
+### Why is Terraform important?
+
+- [Automation](https://www.terraform.io/docs/enterprise/guides/recommended-practices/part3.html)
+- [Versioning](https://www.hashicorp.com/resources/terraform-adoption-journey)
+- [Reusability of the codes](https://www.hashicorp.com/resources/build-reusable-composable-terraform-modules)

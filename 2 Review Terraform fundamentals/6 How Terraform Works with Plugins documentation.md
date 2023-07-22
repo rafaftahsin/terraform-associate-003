@@ -5,4 +5,4 @@ parent: Review Terraform fundamentals
 ---
 
 
-[https://developer.hashicorp.com/terraform/plugin/how-terraform-works](https://developer.hashicorp.com/terraform/language/v1.1.x/providers)
+[https://developer.hashicorp.com/terraform/plugin/how-terraform-works](https://developer.hashicorp.com/terraform/plugin/how-terraform-works)
