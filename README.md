@@ -34,3 +34,18 @@ https://developer.hashicorp.com/terraform/tutorials/certification-associate-tuto
 1. Can use static site generator
 2. 
 
+### Question Dumps
+
+https://codingnconcepts.com/post/terraform-associate-exam-questions/
+https://k21academy.com/terraform-iac/terraform-exam-questions/
+https://www.examtopics.com/exams/hashicorp/terraform-associate/view/
+
+https://www.itexams.com/exam/Terraform-Associate
+
+https://www.udemy.com/course/2023-hashicorp-terraform-associate-003-practice-tests/ Paid Not a good review
+
+Difference between 02 and 03 https://www.yuribacciarini.com/preparation-for-terraform-associate-003-with-final-personal-thoughts/
+
+How to prepare -> https://www.yuribacciarini.com/preparation-for-terraform-associate-003-with-final-personal-thoughts/
+
+Related github -> https://github.com/bradmccoydev/terraform-cert-practice-questions
