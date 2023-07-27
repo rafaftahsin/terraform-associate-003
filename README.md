@@ -49,3 +49,12 @@ Difference between 02 and 03 https://www.yuribacciarini.com/preparation-for-terr
 How to prepare -> https://www.yuribacciarini.com/preparation-for-terraform-associate-003-with-final-personal-thoughts/
 
 Related github -> https://github.com/bradmccoydev/terraform-cert-practice-questions
+
+### Associate Tutorial List :
+
+https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials-003
+
+
+### Associate Study Guide
+
+https://developer.hashicorp.com/terraform/tutorials/certification-003/associate-study-003

@@ -7,11 +7,14 @@ parent: Learn about Infrustructure as Code (IaC)
 
 [https://www.hashicorp.com/resources/what-is-infrastructure-as-code](https://www.hashicorp.com/resources/what-is-infrastructure-as-code)
 
+# Infrastructure as Code: What Is It? Why Is It Important?
 
-[![Watch the video](https://www.youtube.com/watch?v=RO7VcUAsf-I/default.jpg)](https://youtu.be/nTQUwghvy5Q)
+Learn why "infrastructure as code" is the answer to managing large-scale, distributed systems, cloud-native applications, and service-based architectures.
+
+[![Watch the video](https://img.youtube.com/vi/RO7VcUAsf-I/default.jpg)](https://www.youtube.com/watch?v=RO7VcUAsf-I)
 
 
-# Transcript of the Video. Just go through it.
+### Transcript
 
 It really starts by looking at: How is infrastructure traditionally managed?
 
@@ -31,9 +34,9 @@ I can begin to both automate that, but also now that I've captured it as a codif
 
 That really becomes the value. It's really the versioning of it, the reusability of the code, and the ability to then do automation on top of it.
 
-# tl;dr
+---
 
-### What Is It?
+# Notes
 
 ### Why is Terraform important?
 
