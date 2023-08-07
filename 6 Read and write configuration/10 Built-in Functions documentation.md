@@ -4,4 +4,4 @@ title: 10. Built-in Functions documentation
 parent: Read and write configuration
 ---
 
-https://developer.hashicorp.com/terraform/language/v1.1.x/functions
+https://developer.hashicorp.com/terraform/language/functions
