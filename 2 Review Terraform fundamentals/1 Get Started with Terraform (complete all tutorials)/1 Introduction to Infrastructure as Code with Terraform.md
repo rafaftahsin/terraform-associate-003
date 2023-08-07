@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 2.1.1 Introduction to Infrastructure as Code with Terraform
-parent: 2.1 Get Started with Terraform (complete all tutorials)
+title: 1.1 Introduction to Infrastructure as Code with Terraform
+parent: 1 Get Started with Terraform (complete all tutorials)
 ---
 
 [https://developer.hashicorp.com/terraform/tutorials/aws-get-started/infrastructure-as-code](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/infrastructure-as-code)

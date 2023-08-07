@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2.1 Get Started with Terraform (complete all tutorials)
+title: 1 Get Started with Terraform (complete all tutorials)
 parent: Review Terraform fundamentals
 has_children: true
 ---
