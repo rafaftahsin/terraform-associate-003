@@ -5,4 +5,4 @@ parent: Navigate the core workflow
 ---
 
 
-https://developer.hashicorp.com/terraform/cli/v1.1.x/commands/plan
+https://developer.hashicorp.com/terraform/cli/commands/plan

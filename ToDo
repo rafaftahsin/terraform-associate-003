@@ -1,3 +1,4 @@
+- [ ] Adding Section 3.1 3.1 was a mistake... these should be added under Review Terraform fundamentals
 - [ ] Adding Progress section. User can mark some section as completed.
 - [ ] A progress line on top will indicate progress. Line will be divided into number of total sections. The section is done will be marked as green, otherwise gray or some other color.
 - [ ] Should add question in every section to judge learning.

@@ -58,3 +58,7 @@ https://developer.hashicorp.com/terraform/tutorials/certification-associate-tuto
 ### Associate Study Guide
 
 https://developer.hashicorp.com/terraform/tutorials/certification-003/associate-study-003
+
+### Terraform All Tutorials
+
+https://developer.hashicorp.com/terraform/tutorials
