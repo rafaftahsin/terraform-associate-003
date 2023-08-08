@@ -62,3 +62,23 @@ https://developer.hashicorp.com/terraform/tutorials/certification-003/associate-
 ### Terraform All Tutorials
 
 https://developer.hashicorp.com/terraform/tutorials
+
+### Terraform doc
+
+Terraform has main documentation
+
+https://developer.hashicorp.com/terraform/docs
+https://developer.hashicorp.com/terraform/language
+https://developer.hashicorp.com/terraform/cli
+https://developer.hashicorp.com/terraform/cloud-docs
+https://developer.hashicorp.com/terraform/enterprise
+https://developer.hashicorp.com/terraform/cdktf
+https://developer.hashicorp.com/terraform/plugin
+https://developer.hashicorp.com/terraform/registry
+https://developer.hashicorp.com/terraform/docs/partnerships
+
+Every documentation under this site is a page from one of these tutorial
+
+### Terraform tutorial doc
+
+https://developer.hashicorp.com/terraform/tutorials
