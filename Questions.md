@@ -1,3 +1,7 @@
+---
+
+---
+
 Infrastructure as Code (IaC)
 
 Q1. What is the advantage of Infrastructure as Code tools like Terraform?
@@ -1086,7 +1090,7 @@ terraform providers mirror
 terraform mirror
 terraform providers local
 terraform plugins mirror
-Reference: https://developer.hashicorp.com/terraform/cli/commands/providers/mirror
+<!-- Reference: https://developer.hashicorp.com/terraform/cli/commands/providers/mirror -->
 
 13/245/16/23, 8:36 AM
 
