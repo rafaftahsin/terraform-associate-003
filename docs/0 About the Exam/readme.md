@@ -1,7 +1,6 @@
 ---
 layout: default
 title: About the Exam
-nav_order: 1
 ---
 
 https://www.hashicorp.com/certification/terraform-associate
